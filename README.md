@@ -1,7 +1,7 @@
 # Spk-MetodeKnn
-# mod_berat
-# mod_bobot
-# mod_data
+1. mod_berat
+2. mod_bobot
+3. mod_data
 # mod_hasil
 # mod_jenis
 # mod_jk
